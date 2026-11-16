@@ -1,23 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=36&pause=999999&duration=1&color=128AFA&center=true&vCenter=true&width=340&height=60&lines=Shittim+Toolbox" alt="Shittim Toolbox">
-  <span>·</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=36&pause=999999&duration=1&color=FF88AA&center=true&vCenter=true&width=170&height=60&lines=%E4%BB%80%E4%BA%AD%E4%B9%8B%E5%8C%A3" alt="什亭之匣">
-</p>
+<div align="center">
+  <img src="assets/title.svg" alt="Shittim Toolbox · 什亭之匣" height="48">
+</div>
 
-<p align="center">
-  <a href="https://lc-0001.github.io/shittim-toolbox/">
-    <img src="https://img.shields.io/badge/Live-在线访问-128AFA?style=for-the-badge" alt="在线访问">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/许可-MIT-128AFA?style=for-the-badge" alt="许可: MIT">
-  </a>
-</p>
+一套轻量网页工具集合，单文件 HTML，开箱即用。
 
-<p align="center">
-  一套轻量网页工具集合，单文件 HTML，开箱即用。
-</p>
-
----
+> 在线访问：[https://lc-0001.github.io/shittim-toolbox/](https://lc-0001.github.io/shittim-toolbox/)
 
 ## 功能
 - 网页工具箱，集成多种实用工具
@@ -28,14 +15,17 @@
 ## 技术栈
 纯原生 HTML / CSS / JavaScript 单文件应用，无框架，无需构建步骤。
 
-## 如何 Fork 并部署自己的副本
-1. 点击仓库右上角的 **Fork** 按钮。
-2. 进入你 fork 后的仓库，点击 **Settings** → 左侧栏 **Pages**。
-3. Source 选 **Deploy from a branch**，Branch 选 **main**，文件夹选 **/(root)**，点 **Save**。
-4. 等待 1–2 分钟，访问 `https://你的用户名.github.io/shittim-toolbox/`。
+## 部署
+本项目仅依赖静态资源，支持 GitHub Pages、Vercel、Netlify 等任意静态托管平台。
+
+### GitHub Pages 部署步骤
+1. Fork 本仓库到自己的账号
+2. 进入仓库 Settings → Pages
+3. Source 选择 `Deploy from a branch`，分支选择 `main`，目录选择 `/ (root)`，保存
+4. 等待 1–2 分钟，访问 `https://<你的用户名>.github.io/shittim-toolbox/`
 
 ## 本地开发
-本项目是纯静态页面，无需安装任何依赖。
+本项目为单文件静态页面，无依赖，无需安装任何包。
 
 ```bash
 git clone https://github.com/LC-0001/shittim-toolbox.git
@@ -43,8 +33,7 @@ cd shittim-toolbox
 python3 -m http.server 8000
 ```
 
-然后访问 http://localhost:8000 即可。
+访问 `http://localhost:8000`。
 
 ## 许可
-
-本项目基于 [MIT License](LICENSE) 开源。
+[![许可: MIT](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-MIT-128AFA.svg)](LICENSE)
