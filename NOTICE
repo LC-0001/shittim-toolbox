@@ -1,0 +1,16 @@
+Shittim Toolbox · 什亭之匣
+Copyright 2026 LC-0001
+
+本仓库采用 MIT 许可证，该许可仅适用于本项目作者编写的代码及文档部分。
+
+## 第三方开源组件
+
+本项目使用了以下第三方开源库：
+
+- LiquidGlassJS（@surdeddd/liquidglass，版本 0.10.0）
+  npm：https://www.npmjs.com/package/@surdeddd/liquidglass
+  作者：Surdeddd
+  许可证：MIT License
+  版权声明：见上述 npm 页面或 GitHub 仓库中的 LICENSE 文件
+
+依据 MIT License 使用，原始许可证文本见上述来源。
