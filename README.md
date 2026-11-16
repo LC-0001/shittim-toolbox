@@ -1,12 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=40&pause=999999&duration=1&color=128AFA&vCenter=true&width=480&height=60&lines=Shittim+Toolbox" alt="Shittim Toolbox">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=40&pause=999999&duration=1&color=FF88AA&vCenter=true&width=480&height=60&lines=%E4%BB%80%E4%BA%AD%E4%B9%8B%E5%8C%A3" alt="什亭之匣">
-</h1>
+<h1 align="center">Shittim Toolbox</h1>
 
-一套轻量网页工具集合，单文件 HTML，开箱即用。
+<p align="center">
+  <b>什亭之匣</b>
+</p>
 
-> 在线访问：[https://lc-0001.github.io/shittim-toolbox/](https://lc-0001.github.io/shittim-toolbox/)
+<p align="center">
+  <a href="https://lc-0001.github.io/shittim-toolbox/">
+    <img src="https://img.shields.io/badge/Live-在线访问-128AFA?style=for-the-badge" alt="在线访问">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/许可-MIT-128AFA?style=for-the-badge" alt="许可: MIT">
+  </a>
+</p>
+
+<p align="center">
+  一套轻量网页工具集合，单文件 HTML，开箱即用。
+</p>
+
+---
 
 ## 功能
 - 网页工具箱，集成多种实用工具
@@ -34,6 +45,6 @@ python3 -m http.server 8000
 
 然后访问 http://localhost:8000 即可。
 
-## License
+## 许可
 
-MIT License
+本项目基于 [MIT License](LICENSE) 开源。
