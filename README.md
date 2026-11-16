@@ -1,7 +1,7 @@
-<h1 align="center">Shittim Toolbox</h1>
-
 <p align="center">
-  <b>什亭之匣</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=36&pause=999999&duration=1&color=128AFA&center=true&vCenter=true&width=340&height=60&lines=Shittim+Toolbox" alt="Shittim Toolbox">
+  <span>·</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=36&pause=999999&duration=1&color=FF88AA&center=true&vCenter=true&width=170&height=60&lines=%E4%BB%80%E4%BA%AD%E4%B9%8B%E5%8C%A3" alt="什亭之匣">
 </p>
 
 <p align="center">
