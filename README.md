@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/title-v2.svg" alt="Shittim Toolbox · 什亭之匣" height="48">
+  <img src="assets/title.svg" alt="Shittim Toolbox · 什亭之匣" height="48">
 </div>
 
 一个《蔚蓝档案》风格的网页工具箱。阿罗娜与普拉娜坐镇「什亭之匣」，把常用工具收进一个单文件 HTML 页面，打开浏览器就能用。
